@@ -37,6 +37,16 @@ random r = new random();
 
 line 23 = double x = r.nextDouble();
 2)	How to measure the running time of an algorithm?
+line 12 timestart = system.currenttimemillis() 
+line 26 timeend = system.currenttimemillis(); System.out.println(result = timeend - timestart);
+
+
+for working out without running:
+count number of iterations by adding a counter then count number of operations 
+n = number of loops
+6 for variables then 13 per loop)
+
+    T(6 + 13n)?
 
 */
 
