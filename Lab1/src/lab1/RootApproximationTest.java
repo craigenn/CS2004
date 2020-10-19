@@ -46,7 +46,8 @@ count number of iterations by adding a counter then count number of operations
 n = number of loops
 6 for variables then 13 per loop)
 
-    T(6 + 13n)?
+    T(6 + 13n)
+    O(n)
 
 */
 
